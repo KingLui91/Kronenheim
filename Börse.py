@@ -1,6 +1,6 @@
 import terminaltables
 class Börse:
-    print("AWdawd")
+    
     gelisteteAktien = []
 
     def addAktie(self, object):
